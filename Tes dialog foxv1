@@ -1,0 +1,24 @@
+{
+  "Maintenance": false,
+  "ForceUpdate": false,
+  "LatestVersion": "3.0",
+  "UpdateUrl": "https://t.me/black_fox_dev/update.apk",
+  "TrialMode": false,
+  "TrialExpiry": "31/12/2026 11:59 PM",
+  "AdminUrl": "https://t.me/akash_black_fox",
+  "Marquee": "",
+  "Users": [
+    {
+      "username": "AKASH",
+      "ID": "89bb2774d573f36b",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "BANNED_USER",
+      "ID": "banned_device_id_example",
+      "Expiry": "",
+      "Banned": true
+    }
+  ]
+}
