@@ -1,9 +1,9 @@
 {
   "Maintenance": false,
-  "ForceUpdate": false,
+  "ForceUpdate": true,
   "LatestVersion": "3.0",
   "UpdateUrl": "yutamodsid.web.id",
-  "TrialMode": false,
+  "TrialMode": true,
   "TrialExpiry": "31/12/2026 11:59 PM",
   "AdminUrl": "https://wa.me/6283168109083",
   "Marquee": "",
@@ -11,7 +11,7 @@
     {
       "username": "Khan",
       "ID": "e71458b8401a3379",
-      "Expiry": "31/12/2027",
+      "Expiry": "31/12/2021",
       "Banned": false
     },
     {
