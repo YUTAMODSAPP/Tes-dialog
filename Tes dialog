@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "show_after": "21-08-2026 16:30",
-  "force_update": false,
+  "force_update": true,
   "title": "Update Available",
   "message": "A new version is ready. Please update for best experience. join my chanel for more @android_modding_tools",
   "link_text": "See details",
@@ -10,7 +10,7 @@
     {
       "text": "Update Now",
       "action": "url",
-      "target": "https://t.me/androidmod_ar",
+      "target": "yutamodsid.web.id",
       "style": "primary"
     },
     {
